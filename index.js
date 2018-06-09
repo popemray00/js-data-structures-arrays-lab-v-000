@@ -23,7 +23,7 @@ function appendDriver(name) {
 
   drivers;
 
-  driver;
+  appendDriver;
 }
 
 function prependDriver(name) {

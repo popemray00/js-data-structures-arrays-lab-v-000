@@ -22,6 +22,7 @@ function appendDriver(name) {
   const appendDriver = [...drivers, "Broom"];
 
   appendDriver;
+  drivers;
 }
 
 function prependDriver(name) {

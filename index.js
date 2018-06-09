@@ -21,8 +21,6 @@ function appendDriver(name) {
   const drivers = ["Milo", "Otis", "Garfield"]
   const appendDriver = [...drivers, "Broom"];
 
-  drivers;
-
   appendDriver;
 }
 

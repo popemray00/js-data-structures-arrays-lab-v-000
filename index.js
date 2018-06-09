@@ -34,3 +34,11 @@ function removeLastDriver() {
 
   return removeLastDriver
 }
+
+function removeFirstDriver() {
+  const removeFirstDriver = drivers.slice(0)
+
+  return removeFirstDriver
+}
+
+
